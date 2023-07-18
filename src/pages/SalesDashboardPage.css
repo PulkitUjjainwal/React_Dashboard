@@ -1,0 +1,25 @@
+.sales-dashboard-container {
+    padding: 24px;
+  }
+  
+  .dashboard-heading {
+    font-size: 24px;
+    margin-bottom: 16px;
+  }
+  
+  .table-heading {
+    font-size: 20px;
+    margin-bottom: 8px;
+  }
+  
+  .sales-table-container {
+    margin-bottom: 32px;
+  }
+  
+  .sales-table {
+    background-color: #fff;
+    border-radius: 4px;
+    padding: 16px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  

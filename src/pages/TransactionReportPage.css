@@ -1,0 +1,40 @@
+.transaction-report-page {
+    padding: 24px;
+  }
+  
+  .transaction-report-page-heading {
+    font-size: 24px;
+    margin-bottom: 16px;
+  }
+  
+  .transaction-report-table {
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .transaction-report-table .ant-table-thead > tr > th {
+    background-color: #f5f5f5;
+  }
+  
+  .transaction-report-table .ant-table-thead > tr > th,
+  .transaction-report-table .ant-table-tbody > tr > td {
+    font-weight: bold;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .transaction-report-table .ant-table-thead > tr > th:first-child,
+  .transaction-report-table .ant-table-tbody > tr > td:first-child {
+    text-align: left;
+  }
+  
+  .transaction-report-table .ant-table-tbody > tr > td {
+    white-space: nowrap;
+  }
+  
+  .transaction-report-table .ant-table-tbody > tr.ant-table-row:hover > td {
+    background-color: #e6f7ff;
+    cursor: pointer;
+  }
+  
